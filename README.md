@@ -1,6 +1,6 @@
 # Hey there! I'm Stromshadow2711 
 
-Welcome to my GitHub profile! I'm currently pursuing my BCA (2022-2025) from Lovely Professional University.
+Welcome to my GitHub profile! I'm Nilesh Tiwari and I have done my BCA (2022-2025) from Lovely Professional University and currently looking for opportunities in the DevOps Culture.
 
 ## About Me
 -  **BCA GRADUATE** FROM Lovely Professional University (2022-2025)
