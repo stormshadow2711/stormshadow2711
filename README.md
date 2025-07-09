@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm currently pursuing my BCA (2022-2025) from Lovely Professional University.
 
 ## About Me
--  **BCA student** at Lovely Professional University (2022-2025)
+-  **BCA GRADUATE ** FROM Lovely Professional University (2022-2025)
 -  I specialize in **HTML**, **CSS**, and **JavaScript**.
 -  Currently diving into **DevOps** and **Cybersecurity** to broaden my skillset and build a solid foundation for my career.
 
